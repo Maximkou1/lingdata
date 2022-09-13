@@ -1,0 +1,4 @@
+Program odin
+begin
+print('Hello, world!')
+end.
